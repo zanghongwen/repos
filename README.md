@@ -1,3 +1,3 @@
-repos
-=====
-this a git test file.
+Sublime package setting file
+============================
+

@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"auto-save",
+		"BracketHighlighter",
+		"Browser Refresh",
+		"Color Highlighter",
+		"ColorHelper",
+		"Colorsublime",
+		"Compare Side-By-Side",
+		"CSS Format",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"ExpandRegion",
+		"HTML-CSS-JS Prettify",
+		"JsFormat",
+		"LiveReload",
+		"Material Theme",
+		"Package Control",
+		"Predawn",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeTmpl",
+		"SyntaxHighlighter Reloaded Color Scheme",
+		"Tagify",
+		"Theme - Afterglow",
+		"Themr"
+	]
+}
